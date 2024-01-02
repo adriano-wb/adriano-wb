@@ -9,8 +9,8 @@ Sou um programador JavaScript FullStack, inicio na carreira como estudante, port
 ### [Formulário de cadastro de cartão de crédito](https://github.com/adriano-wb/card-component)
 Fiz este projeto baseado no design disponibilizado pelo site Front-End Mentor. Ele é um pequeno formulário de registro de cartão de crédito, com código JavaScript fazendo as devidas validações.
 
-### [Nome do Projeto 2](link-para-o-projeto-2)
-Descrição curta do Projeto 2.
+### [Formulário de várias etapas]([link-para-o-projeto-2](https://github.com/adriano-wb/MultiStepFormWithjQuery))
+Este eu fiz com jQuery e está sensacional. Ah coisas como escolha de opções e ficou fiel ao real lançado pelo Front-End Mentor.
 
 ## Habilidades
 
